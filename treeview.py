@@ -1,6 +1,6 @@
 import tkinter as tk
 from PIL import ImageTk, Image
-from typing import List, Optional, Tuple, Any
+from typing import Tuple
 from collections import namedtuple
 
 # Namedtuple representing a tree node
